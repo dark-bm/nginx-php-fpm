@@ -1,6 +1,6 @@
 FROM nginx:mainline-alpine
 
-MAINTAINER ngineered <support@ngineered.co.uk>
+MAINTAINER chukin <admin@kusumpharm.com>
 
 ENV php_conf /etc/php5/php.ini
 ENV fpm_conf /etc/php5/php-fpm.conf
